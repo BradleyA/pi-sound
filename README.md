@@ -20,7 +20,6 @@ To install, change to the location you want to download the scripts. Use git to 
  * Be usable as non-root
  * Be easy to install and configure
 
-
 ### License::
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software, associated documentation, and files (the "Software") without restriction, including without limitation of rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so.
 

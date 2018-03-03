@@ -2,11 +2,12 @@
 
 #### WARNING: These instructions are incomplete. Consider them as notes quickly drafted on a napkin rather than proper documentation!
 
+#### To watch futre updates in this repository select in the upper-right corner, the "Watch" list, and select Watching. 
+
 I need to complete some cleanup before it is shareable and documented . . .
 
 
 ### Clone
-
 To install, change to the location you want to download the scripts. Use git to pull or clone these scripts into the directory. If you do not have git then enter; "sudo apt-get install git". On the github page of this script use the "HTTPS clone URL" with the 'git clone' command.
 
     git clone https://github.com/BradleyA/pi-sound

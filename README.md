@@ -12,20 +12,14 @@ To install, change to the location you want to download the scripts. Use git to 
     git clone https://github.com/BradleyA/pi-sound
     cd pi-sound
 
-#### Traffic
-
-|   | All | Unique |
---- | ---: | ---: |
-|Git CLones | 5 | 4 |
-|Visitors | 170  | 73  |
-
+#### Repository Traffic
 
 | Week   | 30 | 31* | 32 | 33 |
 | ----------------- | ---: | ---: | ---: | ---: |
-| All Git Clones    | ? | 5 |    |    |
-| Unique Git CLones | ? | 4 |    |    |
-| All Visitors      | ? | 170 |  |    |
-| Unique Visitors   | ? | 73 |   |    |
+| Git Clones        | ?   | 5 |    |    |
+| Unique Git Clones | ?   | 4 |    |    |
+| Visitors          | ?   | 170 |    |    |
+| Unique Visitors   | ?   | 73 |   |    |
 
 
 

@@ -20,11 +20,13 @@ To install, change to the location you want to download the scripts. Use git to 
 |Visitors | 170  | 73  |
 
 
-|    | Jan  |  Unique  | ALL | Unique |
-|    | Clones | Clones|Visitors | Visitors |
-| --- | ---: | ---: | ---: | ---: |
-| Week 1 | 5  | 4 |    |    |
-| Week 2 | 4   |    |    |    |
+| Week   | 30 | 31* | 32 | 33 |
+| ----------------- | ---: | ---: | ---: | ---: |
+| All Git Clones    | ? | 5 |    |    |
+| Unique Git CLones | ? | 4 |    |    |
+| All Visitors      | ? | 170 |  |    |
+| Unique Visitors   | ? | 73 |   |    |
+
 
 
 #### Author

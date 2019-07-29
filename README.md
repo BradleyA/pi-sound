@@ -15,15 +15,16 @@ To install, change to the location you want to download the scripts. Use git to 
 #### Traffic
 
 |   | All | Unique |
---- | --- | --- |
-|Git CLones |   |   |
-|Visitors |   |   |
+--- | ---: | ---: |
+|Git CLones | 5 | 4 |
+|Visitors | 170  | 73  |
 
-|    | All   |  Unique  | ALL | Unique |
-|    | Clones | Clones|    |    |
-| --- | --- | --- | --- | --- |
-|    | All   |    |    |    |
-|    | 4   |    |    |    |
+
+|    | Jan  |  Unique  | ALL | Unique |
+|    | Clones | Clones|Visitors | Visitors |
+| --- | ---: | ---: | ---: | ---: |
+| Week 1 | 5  | 4 |    |    |
+| Week 2 | 4   |    |    |    |
 
 
 #### Author

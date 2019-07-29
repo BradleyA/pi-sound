@@ -14,12 +14,12 @@ To install, change to the location you want to download the scripts. Use git to 
 
 #### Repository Traffic
 
-| Week   | 30 | 31* | 32 | 33 |
-| ----------------- | ---: | ---: | ---: | ---: |
-| Git Clones        | ?   | 5 |    |    |
-| Unique Git Clones | ?   | 4 |    |    |
-| Visitors          | ?   | 170 |    |    |
-| Unique Visitors   | ?   | 73 |   |    |
+ 2019 Week   | 30 | 31* | 32 | 33 
+ ----------------- | ---: | ---: | ---: | ---: 
+ Git Clones        | ?   | 5 |    |    
+ Unique Git Clones | ?   | 4 |    |    
+ Visitors          | ?   | 170 |    |    
+ Unique Visitors   | ?   | 73 |   |    
 
 
 

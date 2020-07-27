@@ -1,12 +1,12 @@
 #### 2020 GitHub visitors
-Date:		   |  02-03   |       04-06  |  04-13  |  04-20
-|:---   |:---:  |:---:  |:---:  |:---:
-Views:		  |   4       |       19     |  27     |  1
-Unique  vistors:  |   1       |      1  |      1  |      1
+#### GitHub visitors
+Date:             |       02-03   |       04-06   |  04-13  |  04-20  |  05-04
+|:---             |:---:  |:---:  |:---:  |:---:  |:---:
+Views:            |       4       |       19      |  27     |  1      |  32
+Unique            vistors:  |       1       |       1  |      1  |      1  |      1
 
-Total views: 51
-###### Updated: 2020-05-07
-
+Total views: 83
+###### Updated: 2020-07-26
 
 #### 2019 GitHub Visitors
 Date:   |         07-29   |  08-05 | 12-30 

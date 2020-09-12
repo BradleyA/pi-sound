@@ -1,8 +1,4 @@
 # pi-sound
-[![MIT License](http://img.shields.io/badge/License-MIT-red.png)](LICENSE)
-[<img alt="Clones" src="https://img.shields.io/static/v1?label=Clones&message=35&color=blue">](images/clone.table.md)
-[<img alt="Views" src="https://img.shields.io/static/v1?label=Views&message=140&color=blue">](images/view.table.md)
-
 [![GitHub Stable Release](https://img.shields.io/badge/Release-0.0-blue.svg)](https://github.com/BradleyA/pi-sound/releases/tag/0.0)
 ![GitHub Release Date](https://img.shields.io/github/release-date/BradleyA/pi-sound?color=blue)
 [![GitHub Commits Since](https://img.shields.io/github/commits-since/BradleyA/pi-sound/0.0?color=orange)](https://github.com/BradleyA/pi-sound/commits/)
@@ -10,8 +6,8 @@
 
 [![GitHub Open Issues](https://img.shields.io/github/issues/BradleyA/pi-sound?color=purple)](https://github.com/BradleyA/pi-sound/issues?q=is%3Aopen+is%3Aissue)
 [![GitHub Closed Issues](https://img.shields.io/github/issues-closed/BradleyA/pi-sound?color=purple)](https://github.com/BradleyA/pi-sound/issues?q=is%3Aclosed+is%3Aissue)
-[<img alt="GitHub Clones" src="https://img.shields.io/static/v1?label=Clones&message=190&color=blueviolet">](https://github.com/BradleyA/pi-sound/blob/master/images/clone.table.md)
-[<img alt="GitHub Views" src="https://img.shields.io/static/v1?label=Views&message=3071&color=blueviolet">](https://github.com/BradleyA/pi-sound/blob/master/images/view.table.md)
+[<img alt="GitHub Clones" src="https://img.shields.io/static/v1?label=Clones&message=35&color=blueviolet">](https://github.com/BradleyA/pi-sound/blob/master/images/clone.table.md)
+[<img alt="GitHub Views" src="https://img.shields.io/static/v1?label=Views&message=140&color=blueviolet">](https://github.com/BradleyA/pi-sound/blob/master/images/view.table.md)
 [![GitHub Size](https://img.shields.io/github/repo-size/BradleyA/pi-sound.svg)](https://github.com/BradleyA/pi-sound/)
 ![Written in Bash](https://img.shields.io/badge/written%20in-bash-blue.svg)
 [![MIT License](http://img.shields.io/badge/License-MIT-blue.png)](LICENSE)

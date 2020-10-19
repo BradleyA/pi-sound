@@ -4,8 +4,10 @@
 [![GitHub Commits Since](https://img.shields.io/github/commits-since/BradleyA/pi-sound/0.0?color=orange)](https://github.com/BradleyA/pi-sound/commits/)
 [![GitHub Last Commits](https://img.shields.io/github/last-commit/BradleyA/pi-sound.svg)](https://github.com/BradleyA/pi-sound/commits/)
 
+[![Open GitHub Issue](https://img.shields.io/badge/Open-Incident-brightgreen.svg)](https://github.com/BradleyA/pi-sound/issues/new/choose)
 [![GitHub Open Issues](https://img.shields.io/github/issues/BradleyA/pi-sound?color=purple)](https://github.com/BradleyA/pi-sound/issues?q=is%3Aopen+is%3Aissue)
 [![GitHub Closed Issues](https://img.shields.io/github/issues-closed/BradleyA/pi-sound?color=purple)](https://github.com/BradleyA/pi-sound/issues?q=is%3Aclosed+is%3Aissue)
+
 [<img alt="GitHub Clones" src="https://img.shields.io/static/v1?label=Clones&message=62&color=blueviolet">](https://github.com/BradleyA/pi-sound/blob/master/images/clone.table.md)
 [<img alt="GitHub Views" src="https://img.shields.io/static/v1?label=Views&message=177&color=blueviolet">](https://github.com/BradleyA/pi-sound/blob/master/images/view.table.md)
 [![GitHub Size](https://img.shields.io/github/repo-size/BradleyA/pi-sound.svg)](https://github.com/BradleyA/pi-sound/)

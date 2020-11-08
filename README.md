@@ -35,6 +35,8 @@ Please do contribute!  Issues and pull requests are welcome.  Thank you for your
 #### Author
 [<img id="github" src="images/github.png" width="50" a="https://github.com/BradleyA/">](https://github.com/BradleyA/)    [<img src="images/linkedin.png" style="max-width:100%;" >](https://www.linkedin.com/in/bradleyhallen) [<img id="twitter" src="images/twitter.png" width="50" a="twitter.com/bradleyaustintx/">](https://twitter.com/bradleyaustintx/)       <a href="https://twitter.com/intent/follow?screen_name=bradleyaustintx"> <img src="https://img.shields.io/twitter/follow/bradleyaustintx.svg?label=Follow%20@bradleyaustintx" alt="Follow @bradleyaustintx" />    </a>          [![GitHub followers](https://img.shields.io/github/followers/BradleyA.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/BradleyA?tab=followers)
 
+[Return to top](https://github.com/BradleyA/pi-sound#pi-sound---)
+
 #### Tested OS
  * Ubuntu 14.04.6 LTS (amd64,armv7l)
  * Ubuntu 16.04.7 LTS (amd64,armv7l)

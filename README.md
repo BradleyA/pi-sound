@@ -1,4 +1,4 @@
-# pi-sound   [![Release Status](https://img.shields.io/badge/Status_-Alpha-red.svg)](https://github.com/BradleyA/git-TEST-commit-automation/releases/tag/3.1.1)
+# pi-sound   [![Release Status](https://img.shields.io/badge/Status_-Alpha-red.svg)](https://github.com/BradleyA/pi-sound/releases/tag/0.0)
 
 [![GitHub Stable Release](https://img.shields.io/badge/Release-0.0-blue.svg)](https://github.com/BradleyA/pi-sound/releases/tag/0.0)
 ![GitHub Release Date](https://img.shields.io/github/release-date/BradleyA/pi-sound?color=blue)

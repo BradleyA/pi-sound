@@ -16,9 +16,11 @@
 [![MIT License](http://img.shields.io/badge/License-MIT-blue.png)](LICENSE)
 
 ----
-  
+
 #### WARNING: These instructions below are incomplete. Consider them as notes quickly drafted on a napkin rather than proper documentation! I need to complete some cleanup before it is shareable and documented . . .  
 <img id="Construction" src="images/construction-icon.gif" width="120">
+
+#### If you like this repository, select in the upper-right corner, [![GitHub stars](https://img.shields.io/github/stars/BradleyA/pi-sound.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/BradleyA/pi-sound/stargazers/), thank you.
 
 ## Clone
 To Install, change into a directory that you want to download the scripts. Use git to pull or clone these scripts into the directory. If you do not have Git installed then enter; "sudo apt-get install git" if using Debian/Ubuntu. Other Linux distribution install methods can be found here: https://git-scm.com/download/linux. On the GitHub page of this script use the "HTTPS clone URL" with the 'git clone' command.

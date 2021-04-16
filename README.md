@@ -35,7 +35,7 @@ To Install, change into a directory that you want to download the scripts. Use g
 ----
 
 #### Contribute
-Please do contribute!  Issues and pull requests are welcome.  Thank you for your help improving software.
+Please do contribute!  Issues, comments, and pull requests are welcome.  Thank you for your help improving software.
 
 [Return to top](https://github.com/BradleyA/pi-sound/blob/master/README.md)
 #### Author
